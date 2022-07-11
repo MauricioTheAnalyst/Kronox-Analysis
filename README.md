@@ -19,8 +19,11 @@ Below is an image of a sample balance sheet (for January 2022) so that readers m
 ![image](https://user-images.githubusercontent.com/109015846/178376403-e9db10d0-718d-4368-a97c-ce9b17124d66.png)
 
 [Expenses Sheet January 2022.pdf](https://github.com/XxMrSpotlessxX/Mauricio-Macias-Serrano-Kronox-Analysis/files/9088174/Expenses.Sheet.January.2022.pdf)
+
 [Income Statement January 2022.pdf](https://github.com/XxMrSpotlessxX/Mauricio-Macias-Serrano-Kronox-Analysis/files/9088175/Income.Statement.January.2022.pdf)
+
 [Balance Sheet January 2022.pdf](https://github.com/XxMrSpotlessxX/Mauricio-Macias-Serrano-Kronox-Analysis/files/9088176/Balance.Sheet.January.2022.pdf)
+
 [Earnings Reports January 2022.pdf](https://github.com/XxMrSpotlessxX/Mauricio-Macias-Serrano-Kronox-Analysis/files/9088177/Earnings.Reports.January.2022.pdf)
 
 2.Complie data into Excel for further Analysis
