@@ -11,7 +11,7 @@ My family owns a small business in Durango, Mexico named Financial Servicies Kro
 4. Draw meaningful conclusions from data
 5. Present Data to company leadership
 
-### 1.Gather and Understand Data:
+### 1. Gather and Understand Data:
 
 During this stage of the process, I worked closely with the company accountant, who provided me with 4 different types of finanical statements to analyze. These statements included: Earnings Reports, Balance Sheets, Income Statements, and Expense Sheets since the year 2018. In order to understand how income flows between the accounts, established and maintained productive communication with company accountant.
 
@@ -26,7 +26,7 @@ Below is an image of a sample balance sheet (for January 2022) so that readers m
 
 [Earnings Reports January 2022.pdf](https://github.com/XxMrSpotlessxX/Mauricio-Macias-Serrano-Kronox-Analysis/files/9088177/Earnings.Reports.January.2022.pdf)
 
-### 2.Complie data into Excel for further Analysis
+### 2. Complie data into Excel for further Analysis
 
 I complied the data from each year into a single excel file that could be used in tableau for data vizualization. Below is an image of the excel sheet associated with balance sheet analysis. Note that I ommited some elements of the balance sheet that were not necesary for my analysis.
 
@@ -34,7 +34,7 @@ I complied the data from each year into a single excel file that could be used i
 
 [Kronox Analysis (English).xlsx](https://github.com/XxMrSpotlessxX/Mauricio-Macias-Serrano-Kronox-Analysis/files/9088183/Kronox.Analysis.English.xlsx)
 
-### 3.Vizualize Data in Tableau
+### 3. Vizualize Data in Tableau
 
 Using the Kronox Analysis excel sheet, I imported data into Tableau for data vizualization. The result is a 14 sheet workbook.
 
@@ -45,6 +45,14 @@ To view entire workbook please click on the following link, which will redirect 
 https://public.tableau.com/views/KronoxAnalysisEnglishWorkbook/NetIncomeorLossOvertime?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Note: To view additional sheets, please click on each of the tabs that are displayed at the top of the page, right underneath the workbook name "Kronox Analysis Workbook"
+
+### 4. Draw Meaningful Conclusions from data
+
+Below are some of the key takeaways from my analysis and the reccomendations I made to company stakeholders.
+
+![Kronox Analysis Powerpoint - PowerPoint 7_11_2022 5_51_25 PM](https://user-images.githubusercontent.com/109015846/178384861-a911633b-129e-4b7d-9840-60bb1c83cff5.png)
+
+![Kronox Analysis Powerpoint - PowerPoint 7_11_2022 5_51_34 PM](https://user-images.githubusercontent.com/109015846/178384865-c08ffd3c-a8f5-4b08-b46f-0bfbaae4e555.png)
 
 
 
