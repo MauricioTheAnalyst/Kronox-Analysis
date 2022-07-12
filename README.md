@@ -40,4 +40,6 @@ Using the Kronox Analysis excel sheet, I imported data into Tableau for data viz
 
 ![image](https://user-images.githubusercontent.com/109015846/178376845-ee7e0ae9-5112-43ac-b147-70d17ad420e4.png)
 
+https://public.tableau.com/views/KronoxAnalysisEnglishWorkbook/NetIncomeorLossOvertime?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
