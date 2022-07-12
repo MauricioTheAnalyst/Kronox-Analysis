@@ -55,6 +55,15 @@ Below are some of the key takeaways from my analysis and the reccomendations I m
 ![Kronox Analysis Powerpoint - PowerPoint 7_11_2022 5_51_34 PM](https://user-images.githubusercontent.com/109015846/178384865-c08ffd3c-a8f5-4b08-b46f-0bfbaae4e555.png)
 
 
+### 5. Present Data to Company Leadership
+I created a Microsoft Powerpoint to help relay the information to company leadership. The meeting took place over zoom on July 8,2022.
+
+![Kronox Analysis Powerpoint - PowerPoint 7_11_2022 5_57_51 PM](https://user-images.githubusercontent.com/109015846/178385576-8b27cc58-a972-4be0-98fd-123250ae85dd.png)
+
+### Ending Notes:
+1. Any information on employee names has been scraped from all above documents to maintain confidentiality of persons not wishing to be included. 
+2. For any questions or further inquiries please email me at m_macias-serrano@ucsb.edu 
+
 
 
 
