@@ -61,7 +61,7 @@ I created a Microsoft Powerpoint to help relay the information to company leader
 ![Kronox Analysis Powerpoint - PowerPoint 7_11_2022 5_57_51 PM](https://user-images.githubusercontent.com/109015846/178385576-8b27cc58-a972-4be0-98fd-123250ae85dd.png)
 
 ### Ending Notes:
-1. Any information on employee names has been scraped from all above documents to maintain confidentiality of persons not wishing to be included. 
+1. Any information on employee names or other persons involved have been omitted from all above documents to maintain confidentiality of persons not wishing to be included. 
 2. For any questions or further inquiries please email me at m_macias-serrano@ucsb.edu 
 
 
