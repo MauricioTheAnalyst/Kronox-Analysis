@@ -36,10 +36,16 @@ I complied the data from each year into a single excel file that could be used i
 
 3.Vizualize Data in Tableau
 
-Using the Kronox Analysis excel sheet, I imported data into Tableau for data vizualization.
+Using the Kronox Analysis excel sheet, I imported data into Tableau for data vizualization. The result is a 14 sheet workbook.
 
 ![image](https://user-images.githubusercontent.com/109015846/178376845-ee7e0ae9-5112-43ac-b147-70d17ad420e4.png)
 
+To view entire workbook please click on the following link, which will redirect you to Tableau Public, a platform where data professionals share their Tableau creations:
 https://public.tableau.com/views/KronoxAnalysisEnglishWorkbook/NetIncomeorLossOvertime?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Note: To view additional sheets, please click on each of the tabs that are displayed at the top of the page, right underneath the workbook name "Kronox Analysis Workbook"
+
+
+
 
 
