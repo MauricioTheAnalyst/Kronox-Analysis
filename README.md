@@ -1,9 +1,9 @@
 # Mauricio-Macias-Serrano-Kronox-Analysis
-Description:
+###Description:
 
 My family owns a small business in Durango, Mexico named Financial Servicies Kronox. The business primarily gets its income through interest generated from financing loans to various clients. The following is a general data analysis performed with the purpose of helping my family visualize business's history as well as make more well informed data-driven business decisions.
 
-Project Overview:
+###Project Overview:
 
 1. Gather and Understand Data
 2. Complie data into Excel for further Analysis
@@ -11,7 +11,7 @@ Project Overview:
 4. Draw meaningful conclusions from data
 5. Present Data to company leadership
 
-1.Gather and Understand Data:
+###1.Gather and Understand Data:
 
 During this stage of the process, I worked closely with the company accountant, who provided me with 4 different types of finanical statements to analyze. These statements included: Earnings Reports, Balance Sheets, Income Statements, and Expense Sheets since the year 2018. In order to understand how income flows between the accounts, established and maintained productive communication with company accountant.
 
@@ -26,7 +26,7 @@ Below is an image of a sample balance sheet (for January 2022) so that readers m
 
 [Earnings Reports January 2022.pdf](https://github.com/XxMrSpotlessxX/Mauricio-Macias-Serrano-Kronox-Analysis/files/9088177/Earnings.Reports.January.2022.pdf)
 
-2.Complie data into Excel for further Analysis
+###2.Complie data into Excel for further Analysis
 
 I complied the data from each year into a single excel file that could be used in tableau for data vizualization. Below is an image of the excel sheet associated with balance sheet analysis. Note that I ommited some elements of the balance sheet that were not necesary for my analysis.
 
@@ -34,7 +34,7 @@ I complied the data from each year into a single excel file that could be used i
 
 [Kronox Analysis (English).xlsx](https://github.com/XxMrSpotlessxX/Mauricio-Macias-Serrano-Kronox-Analysis/files/9088183/Kronox.Analysis.English.xlsx)
 
-3.Vizualize Data in Tableau
+###3.Vizualize Data in Tableau
 
 Using the Kronox Analysis excel sheet, I imported data into Tableau for data vizualization. The result is a 14 sheet workbook.
 
